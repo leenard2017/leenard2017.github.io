@@ -22,7 +22,7 @@ description: "» Python数据之道 « 秉承“让数据更有价值”的理�
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://liyangbit.com"
+url: "https://leenard2017.github.io"
 #url: "http://0.0.0.0:4000/"
 baseurl: ""
 
@@ -30,7 +30,7 @@ baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/liyangbit/liyangbit.github.io/edit/gh-pages
+improve_content: https://github.com/leenard2017/leenard2017.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
@@ -38,7 +38,7 @@ improve_content: https://github.com/liyangbit/liyangbit.github.io/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://liyangbit.github.io/images/"
+urlimg: "https://leenard2017.github.io/images/"
 
 
 # Logo size is 600x80 pixels
@@ -58,9 +58,9 @@ paginate_path: "blog/page:num"
 
 
 # Lesson URLs
-dc_github_repo_url: "https://github.com/liyangbit"
-dc_github_site_url: "http://liyangbit.github.io"
-dc_website_url: "http://liyangbit.com"
+dc_github_repo_url: "https://github.com/leenard2017"
+dc_github_site_url: "http://leenard2017.github.io"
+dc_website_url: "https://leenard2017.github.io"
 
 
 # Theme works best with Kramdown (using the table of contents function)
